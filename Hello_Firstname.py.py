@@ -1,6 +1,7 @@
 #%%
 print("Hello")
 print("This is my first assignment")
+print("It's Nice Learning New Stuff")
 
 #%%
 astring = "Thank you"
